@@ -1,5 +1,5 @@
 # C# Design Patterns Code Sample 
-Implemented c# sample codes from this repository
+Implemented C# sample codes from this repository
 <h1>
 <a href="https://github.com/kamranahmedse/design-patterns-for-humans" target="_blank" >
 Design Patterns For Humans
